@@ -1,0 +1,62 @@
+.btn-custom {
+	padding: 1px 15px 3px 2px;
+	border-radius: 50px;
+    background: lightgrey;
+}
+
+.btn-icon {
+	padding: 8px;
+	
+}
+
+.card {
+    border-radius: 25px;
+    padding: 30px;
+    margin: 5px;
+    width: 155px;
+    background: rgb(224, 141, 108);
+  }
+  
+.verde {
+    background: rgb(75, 218, 187);
+}
+
+.blue {
+    background: rgb(158, 191, 218);
+}
+
+.verdeclaro {
+    background: rgb(182, 221, 123);
+}
+
+.azulclaro {
+    background: lightsteelblue;
+}
+.amarelo {
+    background: rgb(214, 226, 46) ;
+}
+
+.dourado {
+    background: rgba(221, 184, 21, 0.781);
+}
+.roxo {
+    background: rgb(160, 93, 223);
+}
+
+.marron {
+    background: rgb(165, 95, 95)
+}
+
+label {
+   background:rgb(29, 28, 28) ;
+   color: white;
+   border-radius: 25px;
+   text-align: center;
+}
+.container {
+    /* column-count: 5; */
+    column-width: 200px;
+    column-gap: 20px;
+    /* column-rule: 4px dotted rgb(79, 185, 227); */
+    
+  }

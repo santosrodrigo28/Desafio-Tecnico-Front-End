@@ -1,0 +1,30 @@
+DESAFIO TECNICO MOBIX FRONT END 
+
+Link online : pokapppokedex.netlify.app
+git:
+
+Algumas informações sobre o desenvolvimento do projeto. 
+
+Ferramentas Usadas.
+Bootstrap
+Javascript
+Css.
+
+1- Tela login/ index.
+1.1 - Apenas para login, com encaminhamento para o aplicativo, não armazenei os dados.
+
+2- App.
+2.1 - buscar pokemon.
+buscar apenas um pokemon, busca feita pelo nome do Pokemon
+2.2 Mostrar todos pokemons.
+lista todos os pokemons.
+de começo fiz um limit/ quantidade desejada.
+
+
+Como dito antes, estou estudando um curso full Stack Javascript.
+Busco uma oportunidade para ingressar na aréa, fiz o projeto, com base no que eu aprendi até agora, pesquisei muito, me esforcei, bastante interessante
+o desafio.
+Fiz somente até essa parte, vou continuar os estudos e terminar o projeto como desafio pessoal.
+Desde já agradeço, estou a disposição.
+
+Boa tarde. 
